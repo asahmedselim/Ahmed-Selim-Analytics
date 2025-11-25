@@ -3,7 +3,7 @@
 Welcome to my professional portfolio! This repository hosts my personal website, showcasing my journey and projects as a Data Analyst.
 
 ## 🚀 Live Demo
-**[Click here to view the portfolio](PUT_YOUR_LINK_HERE)** *(Note: Replace "PUT_YOUR_LINK_HERE" with the link GitHub gives you after activation)*
+**[Click here to view the portfolio]([PUT_YOUR_LINK_HERE](https://github.com/asahmedselim/Ahmed-Selim-Analytics))** *(Note: Replace "PUT_YOUR_LINK_HERE" with the link GitHub gives you after activation)*
 
 ## 👨‍💻 About Me
 I am a Data Analyst with a Bachelor of Business Information Systems (BIS) and a 3.78 GPA. I specialize in turning raw data into actionable insights to help businesses make strategic decisions.
