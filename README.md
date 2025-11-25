@@ -20,7 +20,7 @@ I am a Data Analyst with a Bachelor of Business Information Systems (BIS) and a 
 
 ## 📫 Contact
 * **Email:** asahmedselim132@gmail.com
-* **LinkedIn:** [Your LinkedIn URL]
+* **LinkedIn:** [www.linkedin.com/in/amedselim]
 * **Location:** Egypt
 
 ---
